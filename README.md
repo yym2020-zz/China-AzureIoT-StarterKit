@@ -14,7 +14,7 @@
 12. USB battery cable
 13. 8G Micro-SD
 
-# 2. Scenarios supported
+# 2. Scenarios Supported
 
 1.  use www.azureiotsuite to monitor all connected sensors' status 
 
