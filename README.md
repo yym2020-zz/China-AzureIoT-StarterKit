@@ -1,4 +1,4 @@
-![China AzureIoT Starter Kit](/images/box.jpg)
+![China AzureIoT Starter Kit](/images/Box.jpg)
 # 1. IoT Starter Kit Part List:
 1.	Orange pi  - Ubuntu and other Linux distributions
 2.	Seeeduino Cloud: OpenWRT + Arduino
