@@ -5,8 +5,8 @@
 
 #include <OrangePi2CognitiveService.h>
 
-const char *Emotion_key = "f8253e213f14441aa90d85ac866ab22f";
-const char *Face_key = "ab5513cf348c49499dbdc82c545571c0";
+const char *Emotion_key = "xxx";
+const char *Face_key = "xxx";
 
 int main()
 {

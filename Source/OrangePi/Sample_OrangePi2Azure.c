@@ -5,7 +5,7 @@
 
 #include <OrangePi2Azure.h>
 
-const char *connect = "HostName=OrangePiPlus.azure-devices.net;DeviceId=OrangePiPlus;SharedAccessKey=+342A6mNVuabgJOjUYzizjFe5j5H2+EIGmsm4L4mIB4=";
+const char *connect = "HostName=xxx.azure-devices.net;DeviceId=xxx";
 
 int main()
 {
